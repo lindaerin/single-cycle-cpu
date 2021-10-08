@@ -16,7 +16,4 @@ To design the single cycle cpu, we need the following units and they are also un
 
 ## Data Path Diagram
 Based on the following data path diagram, the design is connected to form the single cycle cpu
-
-## Single Cycle CPU Block Diagram
-
-## Conclusion
+![Alt text](screenshots/blockpath.png?raw=true " ")
